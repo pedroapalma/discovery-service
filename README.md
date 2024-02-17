@@ -1,1 +1,1 @@
-# Discovery Server
+# Discovery Service
